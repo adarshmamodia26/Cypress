@@ -4,4 +4,7 @@
   "viewportWidth": 1500,
   "viewportHeight": 660,
   "chromeWebSecurity": false
+  "env": {
+    "NODE_OPTIONS": "" } 
+
 }
